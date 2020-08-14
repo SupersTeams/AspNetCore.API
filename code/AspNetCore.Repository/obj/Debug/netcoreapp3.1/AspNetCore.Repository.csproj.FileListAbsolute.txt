@@ -1,0 +1,17 @@
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Repository.deps.json
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Repository.dll
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Common.dll
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.IRepository.dll
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Model.dll
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Common.pdb
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.IRepository.pdb
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Model.pdb
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Model.xml
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.csprojAssemblyReference.cache
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.AssemblyInfoInputs.cache
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.AssemblyInfo.cs
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.csproj.CopyComplete
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\bin\Debug\netcoreapp3.1\AspNetCore.Repository.pdb
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.csproj.CoreCompileInputs.cache
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.dll
+F:\source\GetHub\AspNetCore.API\AspNetCore.API\AspNetCore.Repository\obj\Debug\netcoreapp3.1\AspNetCore.Repository.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AspNetCore.IService/1.0.0": {
+        "dependencies": {
+          "AspNetCore.Model": "1.0.0"
+        },
+        "runtime": {
+          "AspNetCore.IService.dll": {}
+        }
+      },
+      "AspNetCore.Model/1.0.0": {
+        "runtime": {
+          "AspNetCore.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCore.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetCore.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
